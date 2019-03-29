@@ -4,6 +4,6 @@ Feel free to edit and add varieties of achieving the same thing.
 
 # Content :
 ### Arrays
-**[Swapping](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/swapping.py)
+**[Swapping](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/arrays/swapping.py)
 
-**[Reversing the Array](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/reverse_array.py)
+**[Reversing the Array](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/arrays/reverse_array.py)
