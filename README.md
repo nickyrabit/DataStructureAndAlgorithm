@@ -4,4 +4,4 @@ Feel free to edit and add varieties of achieving the same thing.
 
 # Content :
 ### Arrays
-..* [Swapping](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/swapping.py)
+..*[Swapping](https://github.com/nickyrabit/DataStructureAndAlgorithm/blob/master/swapping.py)
