@@ -18,4 +18,4 @@ def reverse_array(a):
 
 
 if __name__ == "__main__":
-    reverse_array([1,3,4,5])
+    reverse_array([1,2,3,4,5])
